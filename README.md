@@ -1,6 +1,6 @@
  Python  project Submission
  --------------------------
- Submitted To: 
+ Submitted To:                                                             
  Instructor: Dr. Prateek Raj Gautam
  ----------------------------------
  Submitted By:-
@@ -12,6 +12,7 @@
                                          ..........Conntent.........
 
              Project : To-Do List Application (tkinter)
+
 
 
 Thank You...
