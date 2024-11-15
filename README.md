@@ -1,7 +1,6 @@
  Python  project Submission
  --------------------------
- Submitted To:
- 
+ Submitted To: 
  Instructor: Dr. Prateek Raj Gautam
  ----------------------------------
  Submitted By:-
